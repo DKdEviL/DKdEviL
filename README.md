@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning to become a better web developer than yesterday.
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently working as a Software Engineer
 - 💞️ I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me on [linkedIn](https://linkedin.com/in/deepak-18)
 
